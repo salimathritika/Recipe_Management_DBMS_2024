@@ -10,22 +10,17 @@ using System.Windows.Forms;
 
 namespace Recipe_Management_Project
 {
-    public partial class User_Signup : Form
+    public partial class Cuisine : Form
     {
-        public User_Signup()
+        public Cuisine()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button10_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            User_Login frm = new User_Login();
-            frm.Show();
+            User_Profile user_Profile = new User_Profile();
+            user_Profile.Show();
         }
     }
 }

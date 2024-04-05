@@ -10,24 +10,17 @@ using System.Windows.Forms;
 
 namespace Recipe_Management_Project
 {
-    public partial class User_Login : Form
+    public partial class User_Profile : Form
     {
-        public User_Login()
+        public User_Profile()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            User_Signup frm = new User_Signup();
-            frm.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            //if login successful
-            Cuisine cuisine = new Cuisine();
-            cuisine.Show();
+            Reset_User_Password reset_User_Password = new Reset_User_Password();
+            reset_User_Password.Show();
         }
     }
 }

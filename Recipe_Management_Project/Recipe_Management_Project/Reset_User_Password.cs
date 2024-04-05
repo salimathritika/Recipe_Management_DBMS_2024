@@ -10,24 +10,17 @@ using System.Windows.Forms;
 
 namespace Recipe_Management_Project
 {
-    public partial class User_Login : Form
+    public partial class Reset_User_Password : Form
     {
-        public User_Login()
+        public Reset_User_Password()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            User_Signup frm = new User_Signup();
-            frm.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            //if login successful
-            Cuisine cuisine = new Cuisine();
-            cuisine.Show();
+            //If successful
+            MessageBox.Show("Password is resetted");
         }
     }
 }

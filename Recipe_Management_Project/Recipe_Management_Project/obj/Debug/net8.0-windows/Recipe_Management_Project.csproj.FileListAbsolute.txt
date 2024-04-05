@@ -16,3 +16,10 @@ C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Mode_Select.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Properties.Resources.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.User_Login.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.User_Signup.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Chef_Login.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Chef_Signup.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Login.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Cuisine.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Reset_User_Password.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.User_Profile.resources
