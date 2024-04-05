@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Reset_User_Password));
             label1 = new Label();
             label2 = new Label();
             textBox1 = new TextBox();
@@ -81,6 +82,8 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Controls.Add(textBox2);
@@ -88,6 +91,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Reset_User_Password";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Reset_User_Password";
             ResumeLayout(false);
             PerformLayout();

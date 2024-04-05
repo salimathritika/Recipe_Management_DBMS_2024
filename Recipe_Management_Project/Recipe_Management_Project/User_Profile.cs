@@ -22,5 +22,10 @@ namespace Recipe_Management_Project
             Reset_User_Password reset_User_Password = new Reset_User_Password();
             reset_User_Password.Show();
         }
+
+        private void User_Profile_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

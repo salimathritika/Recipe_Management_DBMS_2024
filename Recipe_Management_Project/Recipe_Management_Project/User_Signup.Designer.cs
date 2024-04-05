@@ -235,6 +235,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "User_Signup";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "User_Signup";
             ResumeLayout(false);
             PerformLayout();

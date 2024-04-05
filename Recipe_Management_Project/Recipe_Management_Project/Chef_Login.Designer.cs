@@ -47,6 +47,7 @@
             button2.TabIndex = 13;
             button2.Text = "Login";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label3
             // 
@@ -119,6 +120,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Chef_Login";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Chef_Login";
             ResumeLayout(false);
             PerformLayout();

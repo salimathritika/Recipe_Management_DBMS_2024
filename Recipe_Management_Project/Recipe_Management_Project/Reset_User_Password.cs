@@ -20,7 +20,7 @@ namespace Recipe_Management_Project
         private void button1_Click(object sender, EventArgs e)
         {
             //If successful
-            MessageBox.Show("Password is resetted");
+            MessageBox.Show("Password has been reset");
         }
     }
 }

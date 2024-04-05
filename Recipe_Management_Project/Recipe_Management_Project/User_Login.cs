@@ -26,8 +26,14 @@ namespace Recipe_Management_Project
         private void button2_Click(object sender, EventArgs e)
         {
             //if login successful
+            
             Cuisine cuisine = new Cuisine();
             cuisine.Show();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

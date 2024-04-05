@@ -22,5 +22,11 @@ namespace Recipe_Management_Project
             Chef_Signup chef_Signup = new Chef_Signup();
             chef_Signup.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Chef_home chef_Home = new Chef_home();
+            chef_Home.Show();
+        }
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(User_Profile));
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -169,6 +170,8 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 482);
             Controls.Add(button1);
             Controls.Add(textBox7);
@@ -186,7 +189,9 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "User_Profile";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "User_Profile";
+            Load += User_Profile_Load;
             ResumeLayout(false);
             PerformLayout();
         }

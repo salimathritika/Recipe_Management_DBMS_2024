@@ -132,6 +132,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Chef_Signup";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Chef_Signup";
             ResumeLayout(false);
             PerformLayout();

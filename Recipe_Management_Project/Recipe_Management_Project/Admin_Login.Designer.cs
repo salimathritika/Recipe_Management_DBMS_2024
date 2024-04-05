@@ -99,6 +99,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Admin_Login";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Admin_Login";
             ResumeLayout(false);
             PerformLayout();

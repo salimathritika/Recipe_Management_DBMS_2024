@@ -169,6 +169,7 @@
             Controls.Add(maskedTextBox1);
             Controls.Add(label1);
             Name = "Cuisine";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Cuisine";
             ResumeLayout(false);
             PerformLayout();
