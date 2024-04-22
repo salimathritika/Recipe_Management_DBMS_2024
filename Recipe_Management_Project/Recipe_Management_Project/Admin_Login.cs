@@ -22,12 +22,12 @@ namespace Recipe_Management_Project
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -46,7 +46,7 @@ namespace Recipe_Management_Project
                     flag++;
                 }
             }
-            if (flag==2)
+            if (flag == 2)
             {
                 MessageBox.Show("Admin has succcessfully logged in");
             }
@@ -55,6 +55,13 @@ namespace Recipe_Management_Project
                 MessageBox.Show("Incorrect Credentials. Please try again");
                 flag = 0;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Mode_Select frm=new Mode_Select();
+            frm.Show();
         }
     }
 }

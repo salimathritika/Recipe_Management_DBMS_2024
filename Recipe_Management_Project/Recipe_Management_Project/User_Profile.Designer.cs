@@ -35,7 +35,6 @@
             label4 = new Label();
             label5 = new Label();
             label6 = new Label();
-            maskedTextBox1 = new MaskedTextBox();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             textBox3 = new TextBox();
@@ -44,6 +43,7 @@
             textBox6 = new TextBox();
             textBox7 = new TextBox();
             button1 = new Button();
+            textBox8 = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -100,58 +100,51 @@
             label6.TabIndex = 5;
             label6.Text = "Allergens:";
             // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.Location = new Point(154, 44);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(150, 31);
-            maskedTextBox1.TabIndex = 6;
-            // 
             // textBox1
             // 
-            textBox1.Location = new Point(154, 98);
+            textBox1.Location = new Point(154, 50);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(150, 31);
             textBox1.TabIndex = 7;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(154, 152);
+            textBox2.Location = new Point(154, 98);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(150, 31);
             textBox2.TabIndex = 8;
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(154, 208);
+            textBox3.Location = new Point(154, 155);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(150, 31);
             textBox3.TabIndex = 9;
             // 
             // textBox4
             // 
-            textBox4.Location = new Point(154, 259);
+            textBox4.Location = new Point(154, 208);
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(150, 31);
             textBox4.TabIndex = 10;
             // 
             // textBox5
             // 
-            textBox5.Location = new Point(154, 319);
+            textBox5.Location = new Point(154, 262);
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(150, 31);
             textBox5.TabIndex = 11;
             // 
             // textBox6
             // 
-            textBox6.Location = new Point(154, 374);
+            textBox6.Location = new Point(154, 322);
             textBox6.Name = "textBox6";
             textBox6.Size = new Size(150, 31);
             textBox6.TabIndex = 12;
             // 
             // textBox7
             // 
-            textBox7.Location = new Point(154, 427);
+            textBox7.Location = new Point(154, 371);
             textBox7.Name = "textBox7";
             textBox7.Size = new Size(150, 31);
             textBox7.TabIndex = 13;
@@ -166,6 +159,13 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // textBox8
+            // 
+            textBox8.Location = new Point(154, 425);
+            textBox8.Name = "textBox8";
+            textBox8.Size = new Size(150, 31);
+            textBox8.TabIndex = 15;
+            // 
             // User_Profile
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -173,6 +173,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 482);
+            Controls.Add(textBox8);
             Controls.Add(button1);
             Controls.Add(textBox7);
             Controls.Add(textBox6);
@@ -181,7 +182,6 @@
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(maskedTextBox1);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -204,7 +204,6 @@
         private Label label4;
         private Label label5;
         private Label label6;
-        private MaskedTextBox maskedTextBox1;
         private TextBox textBox1;
         private TextBox textBox2;
         private TextBox textBox3;
@@ -213,5 +212,6 @@
         private TextBox textBox6;
         private TextBox textBox7;
         private Button button1;
+        private TextBox textBox8;
     }
 }

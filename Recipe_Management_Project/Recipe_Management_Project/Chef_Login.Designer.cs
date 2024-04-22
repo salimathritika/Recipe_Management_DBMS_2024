@@ -36,6 +36,7 @@
             textBox1 = new TextBox();
             label2 = new Label();
             label1 = new Label();
+            button3 = new Button();
             SuspendLayout();
             // 
             // button2
@@ -105,6 +106,16 @@
             label1.TabIndex = 7;
             label1.Text = "Chef_ID";
             // 
+            // button3
+            // 
+            button3.Location = new Point(3, 404);
+            button3.Name = "button3";
+            button3.Size = new Size(112, 34);
+            button3.TabIndex = 14;
+            button3.Text = "Back";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Chef_Login
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -112,6 +123,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -122,6 +134,7 @@
             Name = "Chef_Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Chef_Login";
+            Load += Chef_Login_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -135,5 +148,6 @@
         private TextBox textBox1;
         private Label label2;
         private Label label1;
+        private Button button3;
     }
 }

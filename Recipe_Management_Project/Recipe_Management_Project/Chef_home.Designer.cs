@@ -36,6 +36,7 @@
             textBox1 = new TextBox();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -100,6 +101,16 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // button4
+            // 
+            button4.Location = new Point(686, 514);
+            button4.Name = "button4";
+            button4.Size = new Size(112, 34);
+            button4.TabIndex = 7;
+            button4.Text = "LogOut";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Chef_home
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -107,6 +118,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 560);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(textBox1);
@@ -129,5 +141,6 @@
         private TextBox textBox1;
         private Button button2;
         private Button button3;
+        private Button button4;
     }
 }

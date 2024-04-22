@@ -33,13 +33,13 @@
             textBox3 = new TextBox();
             textBox2 = new TextBox();
             textBox1 = new TextBox();
-            maskedTextBox1 = new MaskedTextBox();
             label4 = new Label();
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
             label5 = new Label();
             textBox4 = new TextBox();
+            textBox5 = new TextBox();
             SuspendLayout();
             // 
             // button1
@@ -54,31 +54,24 @@
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(136, 182);
+            textBox3.Location = new Point(131, 132);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(150, 31);
             textBox3.TabIndex = 22;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(136, 126);
+            textBox2.Location = new Point(120, 78);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(150, 31);
             textBox2.TabIndex = 21;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(136, 72);
+            textBox1.Location = new Point(120, 24);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(150, 31);
             textBox1.TabIndex = 20;
-            // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.Location = new Point(136, 18);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(150, 31);
-            maskedTextBox1.TabIndex = 19;
             // 
             // label4
             // 
@@ -127,10 +120,17 @@
             // 
             // textBox4
             // 
-            textBox4.Location = new Point(240, 252);
+            textBox4.Location = new Point(131, 188);
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(150, 31);
             textBox4.TabIndex = 25;
+            // 
+            // textBox5
+            // 
+            textBox5.Location = new Point(242, 255);
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(150, 31);
+            textBox5.TabIndex = 26;
             // 
             // Chef_Profile
             // 
@@ -139,13 +139,13 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox5);
             Controls.Add(textBox4);
             Controls.Add(label5);
             Controls.Add(button1);
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(maskedTextBox1);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -164,12 +164,12 @@
         private TextBox textBox3;
         private TextBox textBox2;
         private TextBox textBox1;
-        private MaskedTextBox maskedTextBox1;
         private Label label4;
         private Label label3;
         private Label label2;
         private Label label1;
         private Label label5;
         private TextBox textBox4;
+        private TextBox textBox5;
     }
 }

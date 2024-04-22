@@ -93,6 +93,7 @@
             Name = "Reset_User_Password";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Reset_User_Password";
+            Load += Reset_User_Password_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -145,9 +145,9 @@
             label7.AutoSize = true;
             label7.Location = new Point(333, 271);
             label7.Name = "label7";
-            label7.Size = new Size(176, 25);
+            label7.Size = new Size(169, 25);
             label7.TabIndex = 11;
-            label7.Text = "Veg/Non-Veg/Vegan";
+            label7.Text = "Veg/NonVeg/Vegan";
             // 
             // label8
             // 

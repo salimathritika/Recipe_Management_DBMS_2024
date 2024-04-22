@@ -34,6 +34,7 @@
             textBox1 = new TextBox();
             label2 = new Label();
             label1 = new Label();
+            button1 = new Button();
             SuspendLayout();
             // 
             // button2
@@ -86,6 +87,16 @@
             label1.TabIndex = 14;
             label1.Text = "Admin_ID";
             // 
+            // button1
+            // 
+            button1.Location = new Point(2, 404);
+            button1.Name = "button1";
+            button1.Size = new Size(112, 34);
+            button1.TabIndex = 19;
+            button1.Text = "Back";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Admin_Login
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -93,6 +104,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
             Controls.Add(button2);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -112,5 +124,6 @@
         private TextBox textBox1;
         private Label label2;
         private Label label1;
+        private Button button1;
     }
 }

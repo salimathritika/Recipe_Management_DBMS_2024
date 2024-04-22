@@ -92,6 +92,7 @@
             Controls.Add(label1);
             Name = "Reset_Chef_Password";
             Text = "Reset_Chef_Password";
+            Load += Reset_Chef_Password_Load;
             ResumeLayout(false);
             PerformLayout();
         }

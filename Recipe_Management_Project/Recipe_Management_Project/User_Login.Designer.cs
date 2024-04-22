@@ -36,6 +36,7 @@
             button1 = new Button();
             label3 = new Label();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -106,6 +107,16 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Location = new Point(12, 404);
+            button3.Name = "button3";
+            button3.Size = new Size(112, 34);
+            button3.TabIndex = 7;
+            button3.Text = "Back";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // User_Login
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -113,6 +124,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -123,6 +135,7 @@
             Name = "User_Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "User_Login";
+            Load += User_Login_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -136,5 +149,6 @@
         private Button button1;
         private Label label3;
         private Button button2;
+        private Button button3;
     }
 }
