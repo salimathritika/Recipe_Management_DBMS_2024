@@ -71,7 +71,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(234, 60);
+            textBox1.Location = new Point(234, 62);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(150, 31);
             textBox1.TabIndex = 3;
@@ -83,7 +83,7 @@
             label4.Name = "label4";
             label4.Size = new Size(120, 25);
             label4.TabIndex = 4;
-            label4.Text = "Between 0-10";
+            label4.Text = "Between 1-10";
             // 
             // textBox2
             // 

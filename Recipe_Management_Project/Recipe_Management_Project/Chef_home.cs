@@ -37,7 +37,9 @@ namespace Recipe_Management_Project
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Chef_Upload chef_Upload = new Chef_Upload();
+            chef_Upload.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

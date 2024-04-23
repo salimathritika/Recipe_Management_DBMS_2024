@@ -34,6 +34,7 @@
             label2 = new Label();
             textBox1 = new TextBox();
             button1 = new Button();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -79,6 +80,17 @@
             button1.TabIndex = 4;
             button1.Text = "Show";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(630, 326);
+            button2.Name = "button2";
+            button2.Size = new Size(112, 34);
+            button2.TabIndex = 5;
+            button2.Text = "Apply Filter";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // Show_User_Recipes
             // 
@@ -87,6 +99,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(label2);
@@ -107,5 +120,6 @@
         private Label label2;
         private TextBox textBox1;
         private Button button1;
+        private Button button2;
     }
 }

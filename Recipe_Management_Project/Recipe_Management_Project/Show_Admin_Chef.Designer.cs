@@ -32,6 +32,9 @@
             button1 = new Button();
             label1 = new Label();
             dataGridView1 = new DataGridView();
+            label2 = new Label();
+            textBox1 = new TextBox();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -63,6 +66,32 @@
             dataGridView1.Size = new Size(618, 292);
             dataGridView1.TabIndex = 3;
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(56, 389);
+            label2.Name = "label2";
+            label2.Size = new Size(288, 25);
+            label2.TabIndex = 6;
+            label2.Text = "Enter chef ID of chef to be deleted:";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(374, 389);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(150, 31);
+            textBox1.TabIndex = 7;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(562, 384);
+            button2.Name = "button2";
+            button2.Size = new Size(112, 34);
+            button2.TabIndex = 8;
+            button2.Text = "Delete Chef";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Show_Admin_Chef
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -70,6 +99,9 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
+            Controls.Add(textBox1);
+            Controls.Add(label2);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(dataGridView1);
@@ -86,5 +118,8 @@
         private Button button1;
         private Label label1;
         private DataGridView dataGridView1;
+        private Label label2;
+        private TextBox textBox1;
+        private Button button2;
     }
 }

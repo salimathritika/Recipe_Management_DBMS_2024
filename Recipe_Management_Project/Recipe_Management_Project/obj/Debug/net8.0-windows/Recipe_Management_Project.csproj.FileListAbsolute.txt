@@ -47,3 +47,12 @@ C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Mexican.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_NIndian.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_SIndian.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_Detailed_Recipe.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.User_Review_Dish.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Chef_Upload.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Available_Dish_ID.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Report_Chef.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Searchbar_Dish.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Display_Reports.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Display_Review.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Apply_Filter.resources

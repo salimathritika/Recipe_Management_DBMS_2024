@@ -48,5 +48,19 @@ namespace Recipe_Management_Project
             Admin_Home admin_Home = new Admin_Home();
             admin_Home.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            connectDB();
+            string query = "delete from user# where user_id=" + textBox1.Text + ";";
+            SqlCommand cmd= new SqlCommand(query, conn);
+            cmd.ExecuteNonQuery();
+            MessageBox.Show("User deleted");
+            this.Hide();
+            Show_Admin_Users show_Admin_Users = new Show_Admin_Users();
+            show_Admin_Users.Show();
+            conn.Close();
+
+        }
     }
 }

@@ -53,7 +53,7 @@ namespace Recipe_Management_Project
                 MessageBox.Show("Invalid difficulty level. Please enter a valid integer.");
                 conn.Close();
             }
-            else if(lvl>10 || lvl<0)
+            else if(lvl>10 || lvl<1)
             {
                 MessageBox.Show("Difficulty level not in range. Please enter a valid integer.");
                 conn.Close();

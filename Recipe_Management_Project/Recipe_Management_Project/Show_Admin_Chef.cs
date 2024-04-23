@@ -49,5 +49,18 @@ namespace Recipe_Management_Project
             Admin_Home admin_Home = new Admin_Home();
             admin_Home.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            connectDB();
+            string query = "delete from chef where chef_id=" + textBox1.Text + ";";
+            SqlCommand cmd = new SqlCommand(query, conn);
+            cmd.ExecuteNonQuery();
+            MessageBox.Show("Chef deleted");
+            this.Hide();
+            Show_Admin_Chef show_Admin_chef = new Show_Admin_Chef();
+            show_Admin_chef.Show();
+            conn.Close();
+        }
     }
 }

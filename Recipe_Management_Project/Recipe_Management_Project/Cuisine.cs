@@ -8,15 +8,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Recipe_Management_Project
 {
     public partial class Cuisine : Form
     {
         SqlConnection conn;
+        static string did,uid;
         public Cuisine()
         {
             InitializeComponent();
+        }
+        public void get_uid(string uid)
+        {
+            Cuisine.uid = uid;
         }
         public void connectDB()
         {
@@ -97,6 +103,43 @@ namespace Recipe_Management_Project
             this.Hide();
             Show_User_Korean show_User_kor = new Show_User_Korean();
             show_User_kor.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            connectDB();
+            string query = "select dish_id from dish where dish_name ='" + textBox1.Text + "';";
+            SqlCommand cmd = new SqlCommand(query,conn);
+            try
+            {
+                SqlDataReader dr = cmd.ExecuteReader();
+                dr.Read();
+                Cuisine.did=dr.GetInt32(0).ToString();
+                dr.Close();
+                
+            }
+            catch (Exception ex) { }
+            conn.Close();
+            
+            Show_User_Recipes show_User_Recipes = new Show_User_Recipes();
+            show_User_Recipes.get_id(Cuisine.did);
+            show_User_Recipes.get_uid(Cuisine.uid);
+            show_User_Recipes.Show();
+        }
+
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void maskedTextBox1_MaskInputRejected_1(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

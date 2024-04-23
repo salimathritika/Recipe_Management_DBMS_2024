@@ -34,6 +34,10 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            label3 = new Label();
+            button4 = new Button();
+            label4 = new Label();
+            button5 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -85,6 +89,44 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(110, 231);
+            label3.Name = "label3";
+            label3.Size = new Size(188, 25);
+            label3.TabIndex = 5;
+            label3.Text = "Display all the reports:";
+            // 
+            // button4
+            // 
+            button4.Location = new Point(340, 231);
+            button4.Name = "button4";
+            button4.Size = new Size(112, 34);
+            button4.TabIndex = 6;
+            button4.Text = "Show";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(110, 313);
+            label4.Name = "label4";
+            label4.Size = new Size(255, 25);
+            label4.TabIndex = 7;
+            label4.Text = "Display all the likes and review:";
+            // 
+            // button5
+            // 
+            button5.Location = new Point(392, 308);
+            button5.Name = "button5";
+            button5.Size = new Size(112, 34);
+            button5.TabIndex = 8;
+            button5.Text = "Show";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
             // Admin_Home
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -92,6 +134,10 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button5);
+            Controls.Add(label4);
+            Controls.Add(button4);
+            Controls.Add(label3);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -110,5 +156,9 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private Label label3;
+        private Button button4;
+        private Label label4;
+        private Button button5;
     }
 }

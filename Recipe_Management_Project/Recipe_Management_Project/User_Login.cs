@@ -40,6 +40,10 @@ namespace Recipe_Management_Project
         {
             User_Profile frm = new User_Profile();
             frm.get_userid(textBox1.Text);
+            Cuisine cuisine1 = new Cuisine();
+            cuisine1.get_uid(textBox1.Text);
+            Show_User_Recipes show_User_Recipes = new Show_User_Recipes();
+            show_User_Recipes.get_uid(textBox1.Text);
             connectDB();
               string query = "Select * from user# where user_id=" +textBox1.Text+ " and password='" + textBox2.Text + "';";
               SqlCommand cmd = new SqlCommand(query,conn);

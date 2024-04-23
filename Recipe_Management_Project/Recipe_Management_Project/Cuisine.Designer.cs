@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cuisine));
             label1 = new Label();
-            maskedTextBox1 = new MaskedTextBox();
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
@@ -42,6 +41,7 @@
             button9 = new Button();
             button10 = new Button();
             button11 = new Button();
+            textBox1 = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -52,13 +52,6 @@
             label1.Size = new Size(0, 25);
             label1.TabIndex = 0;
             // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.Location = new Point(114, 49);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(521, 31);
-            maskedTextBox1.TabIndex = 1;
-            // 
             // button1
             // 
             button1.Location = new Point(651, 46);
@@ -67,6 +60,7 @@
             button1.TabIndex = 2;
             button1.Text = "🔎";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -168,6 +162,14 @@
             button11.UseVisualStyleBackColor = true;
             button11.Click += button11_Click;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(188, 49);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(419, 31);
+            textBox1.TabIndex = 13;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
             // Cuisine
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -175,6 +177,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox1);
             Controls.Add(button11);
             Controls.Add(button10);
             Controls.Add(button9);
@@ -186,7 +189,6 @@
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
-            Controls.Add(maskedTextBox1);
             Controls.Add(label1);
             Name = "Cuisine";
             StartPosition = FormStartPosition.CenterScreen;
@@ -198,7 +200,6 @@
         #endregion
 
         private Label label1;
-        private MaskedTextBox maskedTextBox1;
         private Button button1;
         private Button button2;
         private Button button3;
@@ -210,5 +211,6 @@
         private Button button9;
         private Button button10;
         private Button button11;
+        private TextBox textBox1;
     }
 }
