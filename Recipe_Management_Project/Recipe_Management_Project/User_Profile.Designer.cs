@@ -40,10 +40,9 @@
             textBox3 = new TextBox();
             textBox4 = new TextBox();
             textBox5 = new TextBox();
-            textBox6 = new TextBox();
-            textBox7 = new TextBox();
             button1 = new Button();
-            textBox8 = new TextBox();
+            dataGridView1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -135,20 +134,6 @@
             textBox5.Size = new Size(150, 31);
             textBox5.TabIndex = 11;
             // 
-            // textBox6
-            // 
-            textBox6.Location = new Point(154, 322);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(150, 31);
-            textBox6.TabIndex = 12;
-            // 
-            // textBox7
-            // 
-            textBox7.Location = new Point(154, 371);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(150, 31);
-            textBox7.TabIndex = 13;
-            // 
             // button1
             // 
             button1.Location = new Point(379, 150);
@@ -159,12 +144,14 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // textBox8
+            // dataGridView1
             // 
-            textBox8.Location = new Point(154, 425);
-            textBox8.Name = "textBox8";
-            textBox8.Size = new Size(150, 31);
-            textBox8.TabIndex = 15;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(142, 312);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 62;
+            dataGridView1.Size = new Size(199, 149);
+            dataGridView1.TabIndex = 15;
             // 
             // User_Profile
             // 
@@ -173,10 +160,8 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 482);
-            Controls.Add(textBox8);
+            Controls.Add(dataGridView1);
             Controls.Add(button1);
-            Controls.Add(textBox7);
-            Controls.Add(textBox6);
             Controls.Add(textBox5);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
@@ -192,6 +177,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "User_Profile";
             Load += User_Profile_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -209,9 +195,7 @@
         private TextBox textBox3;
         private TextBox textBox4;
         private TextBox textBox5;
-        private TextBox textBox6;
-        private TextBox textBox7;
         private Button button1;
-        private TextBox textBox8;
+        private DataGridView dataGridView1;
     }
 }

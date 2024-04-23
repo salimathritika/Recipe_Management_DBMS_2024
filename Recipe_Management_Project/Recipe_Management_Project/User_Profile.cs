@@ -44,12 +44,11 @@ namespace Recipe_Management_Project
 
         private void User_Profile_Load(object sender, EventArgs e)
         {
-            //need to display allergens also
             connectDB();
             string query = "select * from user# where user_id =" + int.Parse(User_Profile.id) + ";";
-            //string q2 = "select count(*) as num_followers from follow group by chef_id having chef_id =" + int.Parse(Chef_Profile.id) + ";";
+            string q2 = "select allergens from userallergens where user_id =" + int.Parse(User_Profile.id) + ";";
             SqlCommand cmd = new SqlCommand(query, conn);
-           // SqlCommand cmd2 = new SqlCommand(q2, conn);
+            SqlCommand cmd2 = new SqlCommand(q2, conn);
             try
             {
                 SqlDataReader dr = cmd.ExecuteReader();
@@ -59,9 +58,12 @@ namespace Recipe_Management_Project
                 textBox3.Text = dr.GetString(4);
                 textBox4.Text = dr.GetString(3);
                 textBox5.Text = dr.GetString(2);
-            //    dr = cmd2.ExecuteReader();
-            //    dr.Read();
-            //    textBox5.Text = dr.GetInt32(0).ToString();
+                dr.Close();
+                SqlDataAdapter da = new SqlDataAdapter(cmd2);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dataGridView1.DataSource = dt;
+                
             }
             catch (Exception ex) { }
 

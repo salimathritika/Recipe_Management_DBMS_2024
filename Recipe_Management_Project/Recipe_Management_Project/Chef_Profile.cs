@@ -53,9 +53,11 @@ namespace Recipe_Management_Project
                 textBox1.Text = dr.GetString(1);
                 textBox3.Text = dr.GetString(3);
                 textBox4.Text = dr.GetString(2);
+                dr.Close();
                 dr = cmd2.ExecuteReader();
                 dr.Read();
                 textBox5.Text = dr.GetInt32(0).ToString();
+                dr.Close();
             }
             catch (Exception ex) { }
             

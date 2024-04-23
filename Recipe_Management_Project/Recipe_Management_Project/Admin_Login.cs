@@ -55,6 +55,9 @@ namespace Recipe_Management_Project
                 MessageBox.Show("Incorrect Credentials. Please try again");
                 flag = 0;
             }
+            this.Hide();
+            Admin_Home frm = new Admin_Home();
+            frm.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

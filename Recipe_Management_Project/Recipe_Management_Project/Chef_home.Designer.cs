@@ -31,12 +31,13 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Chef_home));
             button1 = new Button();
             label1 = new Label();
-            richTextBox1 = new RichTextBox();
             label2 = new Label();
             textBox1 = new TextBox();
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
+            dataGridView1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -57,14 +58,6 @@
             label1.Size = new Size(211, 25);
             label1.TabIndex = 1;
             label1.Text = "List of Recipes Uploaded:";
-            // 
-            // richTextBox1
-            // 
-            richTextBox1.Location = new Point(37, 121);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(607, 281);
-            richTextBox1.TabIndex = 2;
-            richTextBox1.Text = "";
             // 
             // label2
             // 
@@ -90,6 +83,7 @@
             button2.TabIndex = 5;
             button2.Text = "Edit";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -111,6 +105,15 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(37, 105);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 62;
+            dataGridView1.Size = new Size(751, 293);
+            dataGridView1.TabIndex = 8;
+            // 
             // Chef_home
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -118,16 +121,18 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 560);
+            Controls.Add(dataGridView1);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(textBox1);
             Controls.Add(label2);
-            Controls.Add(richTextBox1);
             Controls.Add(label1);
             Controls.Add(button1);
             Name = "Chef_home";
             Text = "Chef_home";
+            Load += Chef_home_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -136,11 +141,11 @@
 
         private Button button1;
         private Label label1;
-        private RichTextBox richTextBox1;
         private Label label2;
         private TextBox textBox1;
         private Button button2;
         private Button button3;
         private Button button4;
+        private DataGridView dataGridView1;
     }
 }

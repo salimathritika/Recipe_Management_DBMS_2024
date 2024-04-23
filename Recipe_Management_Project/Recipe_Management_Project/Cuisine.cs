@@ -42,5 +42,61 @@ namespace Recipe_Management_Project
             User_Login login = new User_Login();
             login.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_All show_User_All = new Show_User_All();
+            show_User_All.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Beverages show_User_bvg = new Show_User_Beverages();
+            show_User_bvg.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Italian show_User_ita = new Show_User_Italian();
+            show_User_ita.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Mexican show_User_mex = new Show_User_Mexican();
+            show_User_mex.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_SIndian show_User_sind = new Show_User_SIndian();
+            show_User_sind.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_NIndian show_User_nind = new Show_User_NIndian();
+            show_User_nind.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Chinese show_User_chin = new Show_User_Chinese();
+            show_User_chin.Show();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Korean show_User_kor = new Show_User_Korean();
+            show_User_kor.Show();
+        }
     }
 }

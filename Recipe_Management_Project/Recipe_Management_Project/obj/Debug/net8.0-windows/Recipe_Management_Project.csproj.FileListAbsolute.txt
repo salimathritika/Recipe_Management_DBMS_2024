@@ -34,3 +34,16 @@ C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.csproj.AssemblyReference.cache
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_M.6D672683.Up2Date
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Home.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_Admin_Users.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_Admin_Chef.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Chef_Edit_Recipe.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_All.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Recipes.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Beverages.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Italian.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Chinese.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Korean.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Mexican.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_NIndian.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_SIndian.resources
