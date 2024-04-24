@@ -56,3 +56,8 @@ C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Display_Reports.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Admin_Display_Review.resources
 C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Apply_Filter.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Nutritional_values_add.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_Nutrition.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Japanese.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.Show_User_Thai.resources
+C:\Users\ritik\source\repos\Recipe_Management_Project\Recipe_Management_Project\obj\Debug\net8.0-windows\Recipe_Management_Project.View_Ingredients.resources

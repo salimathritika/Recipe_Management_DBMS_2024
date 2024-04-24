@@ -43,6 +43,9 @@
     <Compile Update="Home.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Nutritional_values_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Report_Chef.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +64,9 @@
     <Compile Update="Show_Detailed_Recipe.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Show_Nutrition.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Show_User_All.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Show_User_Italian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Show_User_Japanese.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Show_User_Korean.cs">
@@ -88,6 +97,9 @@
     <Compile Update="Show_User_SIndian.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Show_User_Thai.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="User_Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +110,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="User_Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Ingredients.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

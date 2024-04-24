@@ -42,6 +42,8 @@
             textBox5 = new TextBox();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
+            button5 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -146,12 +148,33 @@
             // 
             // button3
             // 
-            button3.Location = new Point(339, 380);
+            button3.Location = new Point(389, 311);
             button3.Name = "button3";
-            button3.Size = new Size(112, 34);
+            button3.Size = new Size(132, 34);
             button3.TabIndex = 12;
-            button3.Text = "Submit";
+            button3.Text = "Create Recipe";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(561, 311);
+            button4.Name = "button4";
+            button4.Size = new Size(207, 34);
+            button4.TabIndex = 13;
+            button4.Text = "Add nutritional values";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // button5
+            // 
+            button5.Location = new Point(334, 384);
+            button5.Name = "button5";
+            button5.Size = new Size(135, 34);
+            button5.TabIndex = 14;
+            button5.Text = "Final submit";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Chef_Upload
             // 
@@ -160,6 +183,8 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button5);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(textBox5);
@@ -195,5 +220,7 @@
         private TextBox textBox5;
         private Button button2;
         private Button button3;
+        private Button button4;
+        private Button button5;
     }
 }

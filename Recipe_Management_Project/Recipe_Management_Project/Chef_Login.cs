@@ -40,6 +40,8 @@ namespace Recipe_Management_Project
         {
             Chef_Profile chef_Profile = new Chef_Profile();
             chef_Profile.get_chefid(textBox1.Text);
+            Chef_Upload chef_Upload = new Chef_Upload();
+            chef_Upload.get_chef_id(textBox1.Text);
             Chef_home frm=new Chef_home();
             frm.get_chefid(textBox1.Text);
             connectDB();

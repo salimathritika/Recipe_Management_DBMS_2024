@@ -15,7 +15,7 @@ namespace Recipe_Management_Project
     public partial class Cuisine : Form
     {
         SqlConnection conn;
-        static string did,uid;
+        static string did, uid;
         public Cuisine()
         {
             InitializeComponent();
@@ -109,18 +109,18 @@ namespace Recipe_Management_Project
         {
             connectDB();
             string query = "select dish_id from dish where dish_name ='" + textBox1.Text + "';";
-            SqlCommand cmd = new SqlCommand(query,conn);
+            SqlCommand cmd = new SqlCommand(query, conn);
             try
             {
                 SqlDataReader dr = cmd.ExecuteReader();
                 dr.Read();
-                Cuisine.did=dr.GetInt32(0).ToString();
+                Cuisine.did = dr.GetInt32(0).ToString();
                 dr.Close();
-                
+
             }
             catch (Exception ex) { }
             conn.Close();
-            
+
             Show_User_Recipes show_User_Recipes = new Show_User_Recipes();
             show_User_Recipes.get_id(Cuisine.did);
             show_User_Recipes.get_uid(Cuisine.uid);
@@ -140,6 +140,20 @@ namespace Recipe_Management_Project
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Japanese show_User_jap = new Show_User_Japanese();
+            show_User_jap.Show();
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Show_User_Thai show_User_thai = new Show_User_Thai();
+            show_User_thai.Show();
         }
     }
 }

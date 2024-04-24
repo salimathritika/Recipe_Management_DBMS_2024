@@ -42,6 +42,8 @@
             button10 = new Button();
             button11 = new Button();
             textBox1 = new TextBox();
+            button12 = new Button();
+            button13 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -84,7 +86,7 @@
             // 
             // button4
             // 
-            button4.Location = new Point(157, 219);
+            button4.Location = new Point(97, 203);
             button4.Name = "button4";
             button4.Size = new Size(124, 78);
             button4.TabIndex = 5;
@@ -94,7 +96,7 @@
             // 
             // button5
             // 
-            button5.Location = new Point(321, 219);
+            button5.Location = new Point(261, 203);
             button5.Name = "button5";
             button5.Size = new Size(124, 78);
             button5.TabIndex = 6;
@@ -104,7 +106,7 @@
             // 
             // button6
             // 
-            button6.Location = new Point(494, 219);
+            button6.Location = new Point(405, 203);
             button6.Name = "button6";
             button6.Size = new Size(124, 78);
             button6.TabIndex = 7;
@@ -114,7 +116,7 @@
             // 
             // button7
             // 
-            button7.Location = new Point(157, 325);
+            button7.Location = new Point(545, 203);
             button7.Name = "button7";
             button7.Size = new Size(124, 78);
             button7.TabIndex = 8;
@@ -124,7 +126,7 @@
             // 
             // button8
             // 
-            button8.Location = new Point(321, 325);
+            button8.Location = new Point(405, 325);
             button8.Name = "button8";
             button8.Size = new Size(124, 78);
             button8.TabIndex = 9;
@@ -134,7 +136,7 @@
             // 
             // button9
             // 
-            button9.Location = new Point(494, 325);
+            button9.Location = new Point(545, 325);
             button9.Name = "button9";
             button9.Size = new Size(124, 78);
             button9.TabIndex = 10;
@@ -170,6 +172,26 @@
             textBox1.TabIndex = 13;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
+            // button12
+            // 
+            button12.Location = new Point(261, 325);
+            button12.Name = "button12";
+            button12.Size = new Size(124, 78);
+            button12.TabIndex = 14;
+            button12.Text = "Japanese";
+            button12.UseVisualStyleBackColor = true;
+            button12.Click += button12_Click;
+            // 
+            // button13
+            // 
+            button13.Location = new Point(97, 325);
+            button13.Name = "button13";
+            button13.Size = new Size(124, 78);
+            button13.TabIndex = 15;
+            button13.Text = "Thai";
+            button13.UseVisualStyleBackColor = true;
+            button13.Click += button13_Click;
+            // 
             // Cuisine
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -177,6 +199,8 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
+            Controls.Add(button13);
+            Controls.Add(button12);
             Controls.Add(textBox1);
             Controls.Add(button11);
             Controls.Add(button10);
@@ -212,5 +236,7 @@
         private Button button10;
         private Button button11;
         private TextBox textBox1;
+        private Button button12;
+        private Button button13;
     }
 }

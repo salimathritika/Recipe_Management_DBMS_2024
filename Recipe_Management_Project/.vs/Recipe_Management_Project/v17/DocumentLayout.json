@@ -3,51 +3,131 @@
   "WorkspaceRootPath": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\apply_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\apply_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_detailed_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\view_ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\view_ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\view_ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\view_ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_user_thai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_thai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_user_japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_user_thai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_thai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_user_japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\show_nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\nutritional_values_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\nutritional_values_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\nutritional_values_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\nutritional_values_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_edit_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\available_dish_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\apply_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\apply_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,20 +135,12 @@
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_display_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\admin_display_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_admin_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,35 +167,15 @@
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\cuisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\report_chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\chef_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\chef_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -135,7 +183,7 @@
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\user_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|c:\\users\\ritik\\source\\repos\\recipe_management_project\\recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\user_review_dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -161,14 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_chinese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_chinese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|solutionrelative:recipe_management_project\\show_user_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63A75575-59D4-4CB1-ABAF-87D90817AFE7}|Recipe_Management_Project\\Recipe_Management_Project.csproj|C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\recipe_management_project\\reset_user_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -270,11 +310,263 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show_Detailed_Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:39:33.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show_User_Recipes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Recipes.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Recipes.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Recipes.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Recipes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:23:17.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Show_Detailed_Recipe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_Detailed_Recipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:38:41.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View_Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\View_Ingredients.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\View_Ingredients.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\View_Ingredients.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\View_Ingredients.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:37:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chef_home.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_home.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_home.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:04:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View_Ingredients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\View_Ingredients.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\View_Ingredients.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\View_Ingredients.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\View_Ingredients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:36:36.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cuisine.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Cuisine.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Cuisine.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAkwJsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:46:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin_Display_Reports.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Reports.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Display_Reports.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Reports.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Admin_Display_Reports.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:39:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cuisine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Cuisine.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Cuisine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:12:15.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Show_User_Japanese.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Japanese.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Japanese.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Japanese.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Japanese.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:12:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Show_User_Thai.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Thai.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Thai.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Thai.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Thai.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:16:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Show_User_Thai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Thai.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Thai.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Thai.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Thai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:15:44.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Show_User_Japanese.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Japanese.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Japanese.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Japanese.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Japanese.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:11:54.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Show_User_Beverages.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Beverages.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Beverages.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Beverages.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Beverages.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:55:54.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Show_User_All.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_All.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_All.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:12:40.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Show_User_All.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_All.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_User_All.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:08:30.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Show_Nutrition.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Nutrition.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Nutrition.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Nutrition.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_Nutrition.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:43:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Show_Nutrition.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Nutrition.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Nutrition.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Nutrition.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Show_Nutrition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:42:16.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Nutritional_values_add.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Nutritional_values_add.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Nutritional_values_add.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Nutritional_values_add.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Nutritional_values_add.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:25:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Chef_Upload.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Upload.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Upload.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Upload.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_Upload.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwGQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:53:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Chef_Upload.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Upload.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Upload.cs",
@@ -286,32 +578,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Available_Dish_ID.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Available_Dish_ID.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Available_Dish_ID.cs [Design]",
+              "DocumentIndex": 21,
+              "Title": "Nutritional_values_add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Nutritional_values_add.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Nutritional_values_add.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Nutritional_values_add.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Nutritional_values_add.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:51:42.081Z",
+              "WhenOpened": "2024-04-24T00:24:14.272Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Available_Dish_ID.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Available_Dish_ID.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Available_Dish_ID.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwDUAAAAiAAAA",
+              "DocumentIndex": 23,
+              "Title": "Chef_home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_home.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:52:45.522Z",
+              "WhenOpened": "2024-04-05T06:51:16.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Chef_Login.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Login.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Login.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Login.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_Login.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAEwCsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:46:42.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
+              "Title": "Chef_Edit_Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:00:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Chef_Edit_Recipe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Chef_Edit_Recipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:53:43.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Show_User_Recipes.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Recipes.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Recipes.cs",
@@ -324,81 +653,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Show_User_Recipes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Recipes.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Recipes.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Recipes.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Recipes.cs [Design]",
+              "DocumentIndex": 27,
+              "Title": "Available_Dish_ID.cs",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Available_Dish_ID.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
+              "RelativeToolTip": "Recipe_Management_Project\\Available_Dish_ID.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:23:17.736Z",
+              "WhenOpened": "2024-04-23T17:52:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Available_Dish_ID.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs",
+              "RelativeDocumentMoniker": "Recipe_Management_Project\\Available_Dish_ID.cs",
+              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Available_Dish_ID.cs [Design]",
+              "RelativeToolTip": "Recipe_Management_Project\\Available_Dish_ID.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:51:42.081Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
               "Title": "Apply_Filter.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Apply_Filter.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Apply_Filter.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Apply_Filter.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Apply_Filter.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:41:21.957Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T20:41:21.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Show_Detailed_Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAA9wEEAAAABAQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:39:33.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Chef_Edit_Recipe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_Edit_Recipe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:53:43.455Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Show_Detailed_Recipe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Detailed_Recipe.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Detailed_Recipe.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_Detailed_Recipe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:38:41.522Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Chef_Edit_Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_Edit_Recipe.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAwDcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:00:12.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "Admin_Home.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Home.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Home.cs",
@@ -406,12 +697,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Home.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAqwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:03:49.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:03:49.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 31,
               "Title": "Admin_Display_Review.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Review.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Display_Review.cs",
@@ -419,49 +709,33 @@
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Display_Review.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAArwCMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:49:08.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T19:49:08.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "Admin_Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Home.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Home.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Home.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:01:18.921Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T04:01:18.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin_Display_Reports.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Reports.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Display_Reports.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Reports.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Admin_Display_Reports.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:39:43.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "Admin_Display_Review.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Review.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Display_Review.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Review.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Display_Review.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:48:00.078Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T19:48:00.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 34,
               "Title": "Admin_Display_Reports.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Display_Reports.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Display_Reports.cs",
@@ -473,20 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Chef_home.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_home.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_home.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:04:43.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "Show_Admin_Chef.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Chef.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Admin_Chef.cs",
@@ -494,12 +755,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_Admin_Chef.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAkwDwAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:24:27.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:24:27.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "Show_Admin_Users.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Users.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Admin_Users.cs",
@@ -507,49 +767,33 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_Admin_Users.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAA7wD0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:10:30.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:10:30.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Show_Admin_Chef.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Chef.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Admin_Chef.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Chef.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_Admin_Chef.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:22:40.082Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T04:22:40.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "Show_Admin_Users.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Users.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_Admin_Users.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_Admin_Users.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_Admin_Users.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:08:12.91Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T04:08:12.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Cuisine.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Cuisine.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Cuisine.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAmwG4AAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:46:47.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "User_Login.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Login.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Login.cs",
@@ -557,12 +801,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\User_Login.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAASwCsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T08:07:01.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T08:07:01.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "User_Profile.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Profile.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Profile.cs",
@@ -570,61 +813,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\User_Profile.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAEwDwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:37:30.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T05:37:30.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Chef_home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_home.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_home.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T06:51:16.499Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Cuisine.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Cuisine.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Cuisine.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Cuisine.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:12:15.967Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Show_User_All.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_All.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs [Design]",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_User_All.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:08:30.367Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Chef_Upload.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Upload.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Upload.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Upload.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_Upload.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwCwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:53:23.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "Report_Chef.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Report_Chef.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Report_Chef.cs",
@@ -632,49 +825,33 @@
               "RelativeToolTip": "Recipe_Management_Project\\Report_Chef.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAA+wBUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:21:04.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T18:21:04.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "Report_Chef.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Report_Chef.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Report_Chef.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Report_Chef.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Report_Chef.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:16:01.468Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T18:16:01.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Chef_Login.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Login.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Login.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Login.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Chef_Login.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAASwCsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:46:42.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "User_Review_Dish.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Review_Dish.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Review_Dish.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Review_Dish.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\User_Review_Dish.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T15:21:24.435Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T15:21:24.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "User_Signup.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Signup.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Signup.cs",
@@ -682,12 +859,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\User_Signup.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAkwEYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:27:54.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:27:54.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "User_Review_Dish.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Review_Dish.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Review_Dish.cs",
@@ -695,12 +871,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\User_Review_Dish.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAwDgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T15:24:23.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T15:24:23.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "Show_User_SIndian.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_SIndian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_SIndian.cs",
@@ -708,12 +883,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_SIndian.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAvwCcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:47:20.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T08:47:20.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "Show_User_NIndian.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_NIndian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_NIndian.cs",
@@ -721,12 +895,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_NIndian.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAuwDwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:52:20.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T08:52:20.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "Show_User_Mexican.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Mexican.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Mexican.cs",
@@ -734,12 +907,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Mexican.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAmwDwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:41:59.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T08:41:59.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "Show_User_Korean.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Korean.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Korean.cs",
@@ -747,12 +919,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Korean.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:10:03.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T09:10:03.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "Show_User_Italian.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Italian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Italian.cs",
@@ -760,12 +931,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Italian.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwDwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T07:05:11.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T07:05:11.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "Show_User_Chinese.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Chinese.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Chinese.cs",
@@ -773,38 +943,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Chinese.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAAwDQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:04:57.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T09:04:57.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Show_User_Beverages.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Beverages.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Beverages.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Beverages.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_User_Beverages.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwDsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:55:54.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Show_User_All.cs",
-              "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
-              "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_All.cs",
-              "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_All.cs",
-              "RelativeToolTip": "Recipe_Management_Project\\Show_User_All.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIA8wDwAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:12:40.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 52,
               "Title": "Reset_User_Password.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_User_Password.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Reset_User_Password.cs",
@@ -812,12 +955,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Reset_User_Password.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:44:08.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T05:44:08.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "Reset_Chef_Password.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_Chef_Password.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Reset_Chef_Password.cs",
@@ -825,12 +967,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Reset_Chef_Password.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAD4vysAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:32:09.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T07:32:09.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 54,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Home.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Home.cs",
@@ -838,12 +979,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Home.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:31:01.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:31:01.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "Chef_Signup.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Signup.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Signup.cs",
@@ -851,12 +991,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Chef_Signup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAASwCgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:52:53.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:52:53.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 56,
               "Title": "Admin_Login.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Login.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Login.cs",
@@ -864,12 +1003,11 @@
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Login.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAADgvzkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:59:44.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:59:44.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 57,
               "Title": "Chef_Profile.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Profile.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Profile.cs",
@@ -877,132 +1015,121 @@
               "RelativeToolTip": "Recipe_Management_Project\\Chef_Profile.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAxwDYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:28:55.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T07:28:55.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 58,
               "Title": "User_Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Login.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Login.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Login.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\User_Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:57:16.411Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-03T21:57:16.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 60,
               "Title": "Reset_User_Password.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_User_Password.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Reset_User_Password.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_User_Password.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Reset_User_Password.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:38:01.395Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T05:38:01.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 59,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Home.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Home.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Home.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:20:09.375Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-03T21:20:09.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 61,
               "Title": "User_Profile.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Profile.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Profile.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Profile.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\User_Profile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:31:49.705Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T05:31:49.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 62,
               "Title": "Show_User_Korean.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Korean.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Korean.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Korean.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Korean.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:09:01.882Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T09:09:01.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 63,
               "Title": "Show_User_Italian.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Italian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Italian.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Italian.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Italian.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T07:03:20.609Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T07:03:20.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 64,
               "Title": "Show_User_Chinese.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Chinese.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Chinese.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Chinese.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Chinese.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:03:56.603Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T09:03:56.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 65,
               "Title": "Show_User_NIndian.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_NIndian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_NIndian.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_NIndian.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_NIndian.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:51:13.113Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T08:51:13.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 66,
               "Title": "Show_User_SIndian.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_SIndian.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_SIndian.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_SIndian.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_SIndian.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:46:08.233Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T08:46:08.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 67,
               "Title": "Show_User_Mexican.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Mexican.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Mexican.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Mexican.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Show_User_Mexican.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:40:51.601Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T08:40:51.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 68,
               "Title": "Show_User_Beverages.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Show_User_Beverages.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Show_User_Beverages.cs",
@@ -1014,67 +1141,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 69,
               "Title": "Chef_Signup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Signup.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Signup.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Signup.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Chef_Signup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:47:11.567Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T04:47:11.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 70,
               "Title": "User_Signup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Signup.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\User_Signup.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\User_Signup.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\User_Signup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T22:12:43.895Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-03T22:12:43.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 71,
               "Title": "Admin_Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Login.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Admin_Login.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Admin_Login.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Admin_Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:56:03.046Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T04:56:03.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 72,
               "Title": "Reset_Chef_Password.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_Chef_Password.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Reset_Chef_Password.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Reset_Chef_Password.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Reset_Chef_Password.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:29:34.858Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T07:29:34.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 73,
               "Title": "Chef_Profile.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Profile.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Profile.cs",
               "ToolTip": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Profile.cs [Design]",
               "RelativeToolTip": "Recipe_Management_Project\\Chef_Profile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:05:25.332Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T07:05:25.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 74,
               "Title": "Chef_Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ritik\\source\\repos\\Recipe_Management_Project\\Recipe_Management_Project\\Chef_Login.cs",
               "RelativeDocumentMoniker": "Recipe_Management_Project\\Chef_Login.cs",
