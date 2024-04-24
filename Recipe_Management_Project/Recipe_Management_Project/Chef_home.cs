@@ -30,7 +30,7 @@ namespace Recipe_Management_Project
             try
             {
                 conn.Open();
-                MessageBox.Show("Connection established");
+                //MessageBox.Show("Connection established");
             }
             catch (Exception ex) { }
         }
@@ -58,7 +58,8 @@ namespace Recipe_Management_Project
         private void Chef_home_Load(object sender, EventArgs e)
         {
             connectDB();
-            string q = "select recipe_id,dish.dish_name,diff_lvl,dish.description,cooking_instructions,cooking_time,date_of_upload from recipe join dish on recipe.dish_id=dish.dish_id where chef_id =" + Chef_home.chef_id + ";";
+            // string q = "select recipe.recipe_id,dish.dish_name,diff_lvl,dish.description,cooking_instructions,cooking_time,date_of_upload,no_of_likes,avg(rating) as avg_rating from recipe join dish on recipe.dish_id=dish.dish_id join total_likes t on t.recipe_id=recipe.recipe_id join likes on recipe.recipe_id=likes.recipe_id where chef_id =5group by recipe.recipe_id,dish.dish_name,diff_lvl,dish.description,cooking_instructions,cooking_time,date_of_upload,no_of_likes; where chef_id =" + Chef_home.chef_id + ";";
+            string q = "select recipe.recipe_id,dish.dish_name,diff_lvl,dish.description,cooking_instructions,cooking_time,date_of_upload,no_of_likes,avg(rating) as avg_rating from recipe join dish on recipe.dish_id=dish.dish_id join total_likes t on t.recipe_id=recipe.recipe_id join likes on recipe.recipe_id=likes.recipe_id where chef_id =" + Chef_home.chef_id + "group by recipe.recipe_id,dish.dish_name,diff_lvl,dish.description,cooking_instructions,cooking_time,date_of_upload,no_of_likes;";
             SqlCommand cmd = new SqlCommand(q, conn);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();

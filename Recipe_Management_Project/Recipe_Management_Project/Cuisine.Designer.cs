@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cuisine));
             label1 = new Label();
             button1 = new Button();
             button2 = new Button();
@@ -66,16 +65,20 @@
             // 
             // button2
             // 
+            button2.BackColor = SystemColors.GradientActiveCaption;
             button2.Location = new Point(97, 109);
             button2.Name = "button2";
             button2.Size = new Size(124, 78);
             button2.TabIndex = 3;
             button2.Text = "All";
-            button2.UseVisualStyleBackColor = true;
+            button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
             // button3
             // 
+            button3.BackgroundImage = Properties.Resources.beverages_png_test_color_of_beverages_1302;
+            button3.BackgroundImageLayout = ImageLayout.Stretch;
+            button3.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button3.Location = new Point(545, 109);
             button3.Name = "button3";
             button3.Size = new Size(124, 78);
@@ -86,6 +89,10 @@
             // 
             // button4
             // 
+            button4.BackgroundImage = Properties.Resources.AdobeStock_224044706_1_scaled;
+            button4.BackgroundImageLayout = ImageLayout.Stretch;
+            button4.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = SystemColors.MenuText;
             button4.Location = new Point(97, 203);
             button4.Name = "button4";
             button4.Size = new Size(124, 78);
@@ -96,6 +103,9 @@
             // 
             // button5
             // 
+            button5.BackgroundImage = Properties.Resources.tacos_authentic_mexican_food;
+            button5.BackgroundImageLayout = ImageLayout.Stretch;
+            button5.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button5.Location = new Point(261, 203);
             button5.Name = "button5";
             button5.Size = new Size(124, 78);
@@ -106,6 +116,9 @@
             // 
             // button6
             // 
+            button6.BackgroundImage = Properties.Resources.image3_4;
+            button6.BackgroundImageLayout = ImageLayout.Stretch;
+            button6.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button6.Location = new Point(405, 203);
             button6.Name = "button6";
             button6.Size = new Size(124, 78);
@@ -116,6 +129,9 @@
             // 
             // button7
             // 
+            button7.BackgroundImage = Properties.Resources.north_indian_cuisine;
+            button7.BackgroundImageLayout = ImageLayout.Stretch;
+            button7.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button7.Location = new Point(545, 203);
             button7.Name = "button7";
             button7.Size = new Size(124, 78);
@@ -126,6 +142,9 @@
             // 
             // button8
             // 
+            button8.BackgroundImage = Properties.Resources.chinese;
+            button8.BackgroundImageLayout = ImageLayout.Stretch;
+            button8.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button8.Location = new Point(405, 325);
             button8.Name = "button8";
             button8.Size = new Size(124, 78);
@@ -136,6 +155,10 @@
             // 
             // button9
             // 
+            button9.BackgroundImage = Properties.Resources.IMG_1479_1600x1067;
+            button9.BackgroundImageLayout = ImageLayout.Stretch;
+            button9.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button9.ForeColor = SystemColors.ControlText;
             button9.Location = new Point(545, 325);
             button9.Name = "button9";
             button9.Size = new Size(124, 78);
@@ -174,6 +197,9 @@
             // 
             // button12
             // 
+            button12.BackgroundImage = Properties.Resources.b6b9680a32c84a9381a1ea5f5e529698;
+            button12.BackgroundImageLayout = ImageLayout.Stretch;
+            button12.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button12.Location = new Point(261, 325);
             button12.Name = "button12";
             button12.Size = new Size(124, 78);
@@ -184,6 +210,9 @@
             // 
             // button13
             // 
+            button13.BackgroundImage = Properties.Resources.thai;
+            button13.BackgroundImageLayout = ImageLayout.Stretch;
+            button13.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button13.Location = new Point(97, 325);
             button13.Name = "button13";
             button13.Size = new Size(124, 78);
@@ -196,7 +225,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = Properties.Resources.Decorative_damask_Wallpaper_Pattern;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
             Controls.Add(button13);

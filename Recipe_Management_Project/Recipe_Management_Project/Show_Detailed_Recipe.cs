@@ -34,7 +34,7 @@ namespace Recipe_Management_Project
             try
             {
                 conn.Open();
-                MessageBox.Show("Connection established");
+                //MessageBox.Show("Connection established");
             }
             catch (Exception ex) { }
         }
